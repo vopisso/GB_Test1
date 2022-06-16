@@ -44,7 +44,6 @@ string PrintArrayString(string[] array)
 
 string[] array = {"hello", "2", "world", ":-)"};
 
-Console.Clear();
 Console.Write(PrintArrayString(array));
 Console.Write(" -> ");
 
